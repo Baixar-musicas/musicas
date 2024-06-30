@@ -46,7 +46,7 @@ if(target.length) {
 
 
 document.getElementById("concluir03").onclick = function senha03() {
-  var senha03 = '799756s523m012';
+  var senha03 = '984fgv14';
   var senhadig = document.getElementById("senha03").value;
 
   if (senha03 == senhadig){
